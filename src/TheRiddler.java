@@ -21,11 +21,11 @@ if(answer == "Kirby") {
 }
 		// 5. Otherwise, say "wrong" and tell them the answer
 
-else {
-	JOptionPane.showMessageDialog(null,"Wrong. The answer is Kirby");	
+ else {
+	 JOptionPane.showMessageDialog(null,"Wrong. The answer is Kirby");	
 }
 		// 6. Add some more riddles
-
+JOptionPane.showInputDialog("I'm tall when i'm young and short when i'm old. What am I?");
 		// 2. Make a pop up to show the score.
 		JOptionPane.showInputDialog("Why?"+a);
 	}
